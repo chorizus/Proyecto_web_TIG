@@ -1,0 +1,19 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin: 20px 0;
+}
+
+iframe {
+    display: inline-block;
+    width: 48%; /* Ajusta el ancho según tus necesidades */
+    height: 600px;
+    margin: 10px; /* Añade un pequeño espacio entre los iframes */
+}
